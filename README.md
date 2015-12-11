@@ -49,7 +49,7 @@ This API endpoint takes an id as input
 
 ###API Output:
 
-Returns the three elements with the most matches, additinally the orignal news header and the link to the hole news text should be displayed.
+Returns the three elements with the most matches, additinally the orignal news header and the link to the whole news text should be displayed.
 
 ###Workflow:
 
