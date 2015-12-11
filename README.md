@@ -5,7 +5,9 @@ Implement a word hot topic analysis for RSS feeds.
 ##Specification
 Your application should expose two HTTP endpoints:
 
-###API Definition: /analyse/new
+###API Definition: 
+
+/analyse/new
 
 ###API Input:
 
@@ -37,7 +39,9 @@ Platini Dealt Further Blow in FIFA Presidency Bid
 Your analysis should return that there are news related to Burundi in both feeds.
 The analysed data should be stored within a data store and referenced by an unique identifier (see API response).
 
-###API Definition: /frequency/{id}
+###API Definition: 
+
+/frequency/{id}
 
 ###API Input:
 
@@ -60,4 +64,5 @@ H2 database running in memory (data will not be persistent across application re
 You are free to add / change any libraries which you might need to solve this exercise, the only requirement is that we do not have to setup / install any external software to run this application.
 
 Running the exercise with maven
->mvn spring-boot:run
+
+```mvn spring-boot:run```
