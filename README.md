@@ -1,6 +1,6 @@
 #Exercise
 
-Implement a word hot topic analysis for RSS feeds.
+Implement a hot topic analysis for RSS feeds.
 
 ##Specification
 Your application should expose two HTTP endpoints:
