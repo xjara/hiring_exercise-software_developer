@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+    xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+    <channel>
+        <title>Yahoo News - Latest News &amp; Headlines</title>
+        <link>https://www.yahoo.com/news/world</link>
+        <description>The latest news and headlines from Yahoo! News. Get breaking news stories and in-depth coverage with videos and photos.</description>
+        <language>en-US</language>
+        <copyright>Copyright (c) 2021 Yahoo! Inc. All rights reserved</copyright>
+        <pubDate>Sun, 30 May 2021 10:27:09 -0400</pubDate>
+        <ttl>5</ttl>
+        <image>
+            <title>Yahoo News - Latest News &amp; Headlines</title>
+            <link>https://www.yahoo.com/news/world</link>
+            <url>http://l.yimg.com/rz/d/yahoo_news_en-US_s_f_p_168x21_news.png</url>
+        </image>
+        <item>
+            <title>Macron threatens to withdraw French troops from Mali</title>
+            <link>https://news.yahoo.com/macron-threatens-withdraw-french-troops-090838481.html</link>
+            <pubDate>2021-05-30T12:49:48Z</pubDate>
+            <source url="https://www.bbc.com/">BBC</source>
+            <guid isPermaLink="false">macron-threatens-withdraw-french-troops-090838481.html</guid>
+            <media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/dDL.m54V84BUZbOIRJiq9g--~B/aD01NDk7dz05NzY7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bbc_us_articles_995/68bb8b5e5d343dab34fd32e8c57eeb99" width="130"/>
+            <media:credit role="publishing company"/>
+        </item>
+        <item>
+            <title>Kenyan arrested in Qatar first targeted by phishing attack</title>
+            <link>https://news.yahoo.com/kenyan-arrested-qatar-first-targeted-124304513.html</link>
+            <pubDate>2021-05-30T12:43:04Z</pubDate>
+            <source url="http://www.ap.org/">Associated Press</source>
+            <guid isPermaLink="false">kenyan-arrested-qatar-first-targeted-124304513.html</guid>
+            <media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/LCDz90pqfIJyy_F5jRWmXQ--~B/aD0yNjkyO3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/3773e77eb276add54392897fe7815f7f" width="130"/>
+            <media:credit role="publishing company"/>
+        </item>
+        <item>
+            <title>China and it's sci-tech development to focus more on self-reliance</title>
+            <link>https://finance.yahoo.com/news/chinas-sci-tech-development-focus-115100862.html</link>
+            <pubDate>2021-05-30T11:51:00Z</pubDate>
+            <source url="http://www.prnewswire.com/yahoo/">PR Newswire</source>
+            <guid isPermaLink="false">chinas-sci-tech-development-focus-115100862.html</guid>
+            <media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/KVY0DXs4l8qJQYcV3MowQA--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/prnewswire.com/a0090709eb0a0daf08bdc21ccd06e8bc" width="130"/>
+            <media:credit role="publishing company"/>
+        </item>
+        <item>
+            <title>Lebanon ramps up COVID-19 fight with vaccination marathon</title>
+            <link>https://news.yahoo.com/lebanon-ramps-covid-19-fight-122517318.html</link>
+            <pubDate>2021-05-29T12:25:17Z</pubDate>
+            <source url="http://www.ap.org/">Associated Press</source>
+            <guid isPermaLink="false">lebanon-ramps-covid-19-fight-122517318.html</guid>
+            <media:credit role="publishing company"/>
+        </item>
+        <item>
+            <title>Black fear of Tulsa police lingers 100 years after massacre</title>
+            <link>https://news.yahoo.com/100-years-tulsa-race-massacre-152344936.html</link>
+            <pubDate>2021-05-29T15:23:44Z</pubDate>
+            <source url="http://www.ap.org/">Associated Press</source>
+            <guid isPermaLink="false">100-years-tulsa-race-massacre-152344936.html</guid>
+            <media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/QqSFl4tzfRbLXb5dcRvKOA--~B/aD0xNjM5O3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/978cba62c6b1096685748cec53de6659" width="130"/>
+            <media:credit role="publishing company"/>
+        </item>
+        <item>
+            <title>Police: 2 dead, over 20 injured in banquet hall shooting</title>
+            <link>https://news.yahoo.com/police-2-dead-over-20-095705864.html</link>
+            <pubDate>2021-05-30T09:57:05Z</pubDate>
+            <source url="http://www.ap.org/">Associated Press</source>
+            <guid isPermaLink="false">police-2-dead-over-20-095705864.html</guid>
+            <media:content height="86" url="https://s.yimg.com/uu/api/res/1.2/Hj4dG5.T3xf7rs7cFHbojA--~B/aD0xNTAwO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/24c59f53a36d4ebe32bd7d676c4c03f1" width="130"/>
+            <media:credit role="publishing company"/>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,63 @@
+{
+	"variables": [],
+	"info": {
+		"name": "RssTopicAnalyzer requests",
+		"_postman_id": "74eb7b97-7b9f-bd4b-3b15-da74a801c5c9",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:8080/analyse/new",
+			"request": {
+				"url": "http://localhost:8080/analyse/new",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					},
+					{
+						"key": "",
+						"value": "",
+						"description": "",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "[\n\"https://news.google.com/rss?cf=all&hl=en-US&pz=1&gl=US&ceid=US:en\",\n\"https://www.yahoo.com/news/rss/world\"\n]"
+				},
+				"description": "Post request on analyse API."
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/frequency/1",
+			"request": {
+				"url": "http://localhost:8080/frequency/1",
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					},
+					{
+						"key": "",
+						"value": "",
+						"description": "",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"description": "Get request on frequency API."
+			},
+			"response": []
+		}
+	]
+}
